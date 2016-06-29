@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="Hotelsgallery_fragment" type="CLASS" />
+      <mapping pattern="gallery_Fragment" type="XML" />
+      <mapping pattern="google_app_id" type="XML" />
+    </extensionMap>
+  </component>
+</application>
